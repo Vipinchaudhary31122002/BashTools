@@ -33,13 +33,11 @@ This Bash script provides a simple command-line interface to manage user account
 ## 🔐 Permissions
 
 To make the script executable:
-
 ```bash
 chmod +x user_manager.sh
 ```
 
 Run it with:
-
 ```bash
 sudo ./user_manager.sh -c
 ```
